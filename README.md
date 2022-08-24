@@ -1,3 +1,3 @@
 # MSTW22
 Hackathon Submission Files
-(very spiffy reinforcement Q-learning model, I know)
+(very iffy reinforcement Q-learning trading model, I know)
